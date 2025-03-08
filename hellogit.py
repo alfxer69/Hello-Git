@@ -1,1 +1,1 @@
-print(" New Hello Git ,Esto es un otro mensaje de Git")
+print(" New Hello ,Esto es un otro mensaje de Git")
